@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "948654109221",
+    "firebase_url": "https://heartstone-udemyionic.firebaseio.com",
+    "project_id": "heartstone-udemyionic",
+    "storage_bucket": "heartstone-udemyionic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948654109221:android:23204aca7d2d9662",
+        "android_client_info": {
+          "package_name": "com.egloffgroup.heartstoneAppFE"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948654109221-2hobhu4ba0b8l8a64mettvo2graajeh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcxbUYTko1-9CWgg1uKaV1ySd_xrt_y9U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
